@@ -4,7 +4,7 @@
     "producto": "Teclado Mecanico RGB Redragon Kumara",
     "precio": 38990,
     "categoria": "teclados",
-    "imagen": "img/teclado-redragon.jpg",
+    "imagen": "https://lh3.googleusercontent.com/d/1T8uUnPAAyhvKa6CgtzNheAJwpCeqZNY1",
     "descripcion": "Teclado mecánico compacto de alto rendimiento con iluminación RGB personalizable y switches mecánicos duraderos.",
     "especificaciones": [
       "Switches: Mecánicos Outemu Red intercambiables",
@@ -20,7 +20,7 @@
     "producto": "Teclado Gamer 60% HyperX Alloy Origins",
     "precio": 69990,
     "categoria": "teclados",
-    "imagen": "img/teclado-hyperx.jpg",
+    "imagen": "https://lh3.googleusercontent.com/d/1c-3Me1WCbf_d4eMFCA3S0hVeVs-pjvkm",
     "descripcion": "Diseño ultra compacto del 60% que libera espacio en tu escritorio sin sacrificar rendimiento ni velocidad de respuesta.",
     "especificaciones": [
       "Switches: Mecánicos HyperX Red lineales",
@@ -36,7 +36,7 @@
     "producto": "Teclado Inalambrico Logitech G915 TKL",
     "precio": 149990,
     "categoria": "teclados",
-    "imagen": "img/teclado-logitech.jpg",
+    "imagen": "https://lh3.googleusercontent.com/d/1FtCretefhQ5zp68lUH94EyFzOB37TycS",
     "descripcion": "Teclado mecánico inalámbrico de perfil bajo con tecnología LIGHTSPEED de nivel profesional y diseño sin teclado numérico.",
     "especificaciones": [
       "Tecnología inalámbrica: LIGHTSPEED 1 ms y Bluetooth",
@@ -52,7 +52,7 @@
     "producto": "Teclado Mecanico Razer BlackWidow V3",
     "precio": 99990,
     "categoria": "teclados",
-    "imagen": "img/teclado-razer.jpg",
+    "imagen": "https://lh3.googleusercontent.com/d/1MaSiXvv-8nTW_CiwexlYlDVugEvJVYHD",
     "descripcion": "El icónico teclado mecánico para juegos mejorado con switches propios de última generación y reposamuñecas ergonómico.",
     "especificaciones": [
       "Switches: Mecánicos Razer Green táctiles y sonoros",
@@ -68,7 +68,7 @@
     "producto": "Teclado Corsair K65 RGB Mini 65%",
     "precio": 79990,
     "categoria": "teclados",
-    "imagen": "img/teclado-corsair.jpg",
+    "imagen": "https://lh3.googleusercontent.com/d/1os8Kb4bqxdK81Rx1GhMSz7d_rz19MHei",
     "descripcion": "Teclado de formato reducido 65% con hiperprocesamiento AXON que ofrece una velocidad hasta 8 veces más rápida.",
     "especificaciones": [
       "Switches: Mecánicos CHERRY MX Speed Silver",
@@ -84,7 +84,7 @@
     "producto": "Mouse Gamer Logitech G203 RGB",
     "precio": 24990,
     "categoria": "mouses",
-    "imagen": "img/mouse-g203.jpg",
+    "imagen": "https://lh3.googleusercontent.com/d/12Q_zkynXPYA6YPtzLOPzELOVM8cCTTf6",
     "descripcion": "Sensor clásico para juegos con iluminación RGB Lightsync vibrante y un diseño clásico optimizado para la comodidad.",
     "especificaciones": [
       "Sensor: Óptico para juegos de hasta 8,000 DPI",
@@ -100,7 +100,7 @@
     "producto": "Mouse Inalambrico Razer Basilisk X Hyperspeed",
     "precio": 49990,
     "categoria": "mouses",
-    "imagen": "img/mouse-razer.jpg",
+    "imagen": "https://lh3.googleusercontent.com/d/1AbrXH7FN4RTQJCg7EEbTfVdWAyTkAT7x",
     "descripcion": "Libertad inalámbrica sin latencia y un sensor óptico avanzado de alta precisión para un control absoluto en partidas.",
     "especificaciones": [
       "Conectividad: Dual (Modo HyperSpeed Inalámbrico y Bluetooth)",
@@ -116,7 +116,7 @@
     "producto": "Mouse Gamer Ergonomico Corsair Harpoon",
     "precio": 29990,
     "categoria": "mouses",
-    "imagen": "img/mouse-corsair.jpg",
+    "imagen": "https://lh3.googleusercontent.com/d/1x2NYRSirFVQtFPxKMp-zwmXZhNikUGbL",
     "descripcion": "Diseño ligero con agarres laterales de goma texturizada y un sensor de alta precisión listo para la acción.",
     "especificaciones": [
       "Sensor: Óptico de alta precisión de 12,000 DPI",
@@ -132,7 +132,7 @@
     "producto": "Mouse Inalambrico Logitech G Pro X Superlight",
     "precio": 119990,
     "categoria": "mouses",
-    "imagen": "img/mouse-gpro.jpg",
+    "imagen": "https://lh3.googleusercontent.com/d/1vtiicZcUjGf4L1Cec4B2pWrC-sTELhWe",
     "descripcion": "Ultraligero diseñado en colaboración con profesionales de esports para eliminar obstáculos hacia la victoria.",
     "especificaciones": [
       "Peso: Menos de 63 gramos sin comprometer estructura",
@@ -148,7 +148,7 @@
     "producto": "Mouse Gamer Redragon M908 Impact RGB",
     "precio": 32990,
     "categoria": "mouses",
-    "imagen": "img/mouse-redragon.jpg",
+    "imagen": "https://lh3.googleusercontent.com/d/15SQ2pPB8s3Z6hupjHAUxFa0zVRnq_VI2",
     "descripcion": "Mouse láser de alta precisión con múltiples botones laterales programables ideal para MMO y juegos de estrategia.",
     "especificaciones": [
       "Sensor: Láser Pixart de hasta 12,400 DPI",
@@ -162,9 +162,9 @@
   {
     "id": 11,
     "producto": "Audifonos Gamer 7.1 HyperX Cloud Stinger",
-    "price": 39900,
+    "precio": 39900,
     "categoria": "auriculares",
-    "imagen": "img/audifonos-hyperx.jpg",
+    "imagen": "https://lh3.googleusercontent.com/d/1RdP_Nj3QHbV9ZUEWfeOu-cg4sWxjzjqm",
     "descripcion": "Ligeros y cómodos con sonido envolvente y diafragmas direccionales para una inmersión acústica total.",
     "especificaciones": [
       "Peso: 275 gramos ultra ligero",
@@ -180,7 +180,7 @@
     "producto": "Audifonos Inalambricos Razer BlackShark V2 X",
     "precio": 55990,
     "categoria": "auriculares",
-    "imagen": "img/audifonos-razer.jpg",
+    "imagen": "https://lh3.googleusercontent.com/d/1m1knqfpNI2AQKpeQ_qx7OR65kuSmCXs8",
     "descripcion": "Amenaza triple de audio claro, sonido posicional superior y aislamiento de ruido pasivo avanzado.",
     "especificaciones": [
       "Controladores: Triforce de titanio de 50 mm",
@@ -196,7 +196,7 @@
     "producto": "Audifonos con Microfono Logitech G435 Lightspeed",
     "precio": 64990,
     "categoria": "auriculares",
-    "imagen": "img/audifonos-logitech.jpg",
+    "imagen": "https://lh3.googleusercontent.com/d/1Lc706Jf-wDqe7wiK2eycSGdcAaPeIBhg",
     "descripcion": "Inalámbricos y ligeros, fabricados parcialmente con plástico reciclado para un juego sustentable y sin cables.",
     "especificaciones": [
       "Conectividad: Inalámbrica LIGHTSPEED y Bluetooth",
@@ -212,7 +212,7 @@
     "producto": "Audifonos Corsair Void RGB Elite Wireless",
     "precio": 89990,
     "categoria": "auriculares",
-    "imagen": "img/audifonos-corsair.jpg",
+    "imagen": "https://lh3.googleusercontent.com/d/1cYSpOizbzuADh_PVJJqJSNMPhzj6cUcB",
     "descripcion": "Comodidad excepcional con tejido de malla de microfibra transpirable y sonido envolvente 7.1 de alta calidad.",
     "especificaciones": [
       "Audio: Sonido envolvente 7.1 en PC",
@@ -228,7 +228,7 @@
     "producto": "Audifonos Redragon Zeus H510 RGB",
     "precio": 44990,
     "categoria": "auriculares",
-    "imagen": "img/audifonos-redragon.jpg",
+    "imagen": "https://lh3.googleusercontent.com/d/1GstbeMCA0Db7AvQCUlhvIWQGy6AvDTGx",
     "descripcion": "Sonido envolvente virtual 7.1 con almohadillas de espuma viscoelástica y estructura de aluminio resistente.",
     "especificaciones": [
       "Sonido: Envolvente virtual 7.1 con controladores de 53 mm",
@@ -244,7 +244,7 @@
     "producto": "Monitor Gamer 24\" 165Hz AOC Hero",
     "precio": 169990,
     "categoria": "monitores",
-    "imagen": "img/monitor-aoc.jpg",
+    "imagen": "https://lh3.googleusercontent.com/d/1BKqJOScl0cHE8wQPv4oS3SWHFK400uO7",
     "descripcion": "Fluidez excepcional a 165Hz con tiempo de respuesta mínimo para gaming competitivo sin desenfoques.",
     "especificaciones": [
       "Tamaño y Panel: 24 pulgadas IPS Full HD (1920x1080)",
@@ -260,7 +260,7 @@
     "producto": "Monitor Curvo 27\" 144Hz Samsung Odyssey G5",
     "precio": 249990,
     "categoria": "monitores",
-    "imagen": "img/monitor-samsung.jpg",
+    "imagen": "https://lh3.googleusercontent.com/d/19Z32P9XaPwqNVj26I_Rvt46Iicb-pFk-",
     "descripcion": "Curvatura inmersiva 1000R adaptada al campo de visión humano con resolución QHD de gran nitidez.",
     "especificaciones": [
       "Curvatura y Panel: 27 pulgadas Curvo 1000R VA",
@@ -276,7 +276,7 @@
     "producto": "Monitor Gamer LG UltraGear 27\" IPS 144Hz",
     "precio": 229990,
     "categoria": "monitores",
-    "imagen": "img/monitor-lg.jpg",
+    "imagen": "https://lh3.googleusercontent.com/d/1JlwIqWtLUXjybFLiiOxsDh0MPEKxZtkN",
     "descripcion": "Pantalla IPS de alta velocidad con colores vibrantes y sincronización adaptativa para evitar interrupciones.",
     "especificaciones": [
       "Panel: IPS de 27 pulgadas con sRGB 99%",
@@ -292,7 +292,7 @@
     "producto": "Monitor 23.8\" 75Hz ASUS Eye Care",
     "precio": 119990,
     "categoria": "monitores",
-    "imagen": "img/monitor-asus.jpg",
+    "imagen": "https://lh3.googleusercontent.com/d/1JzUN7slTQnDT_5NsSllWPg4w2Bkf223p",
     "descripcion": "Monitor equilibrado para estudio, trabajo y entretenimiento casual con tecnologías de protección ocular.",
     "especificaciones": [
       "Panel: 23.8 pulgadas IPS con ángulo de visión amplio de 178°",
@@ -308,7 +308,7 @@
     "producto": "Monitor Gamer Gigabyte 27\" QHD 170Hz",
     "precio": 319990,
     "categoria": "monitores",
-    "imagen": "img/monitor-gigabyte.jpg",
+    "imagen": "https://lh3.googleusercontent.com/d/1InQSrfQumviv7BhL1KYfWNzvShXwu9U1",
     "descripcion": "Prestaciones de gama alta con resolución QHD y funciones tácticas exclusivas para sacar ventaja en cada partida.",
     "especificaciones": [
       "Panel: 27 pulgadas SS IPS (Super Speed IPS)",
@@ -324,7 +324,7 @@
     "producto": "Mousepad Gamer XXL Redragon Taurus",
     "precio": 14990,
     "categoria": "accesorios",
-    "imagen": "img/accesorio-mousepad.jpg",
+    "imagen": "https://lh3.googleusercontent.com/d/1cQfYUv1Vo15R36zfIq6vwixxUFjNeFpH",
     "descripcion": "Superficie amplia optimizada para movimientos de alta velocidad y máxima precisión con cualquier sensor.",
     "especificaciones": [
       "Dimensiones: 900 x 400 mm (Formato XXL para teclado y mouse)",
@@ -340,7 +340,7 @@
     "producto": "Soporte para Audifonos RGB Redragon Sceptre",
     "precio": 24990,
     "categoria": "accesorios",
-    "imagen": "img/accesorio-soporte.jpg",
+    "imagen": "https://lh3.googleusercontent.com/d/15bqubhh_SJsk3g1Y0Wu-L4wLmGSrDlrA",
     "descripcion": "Elegante soporte de escritorio con iluminación RGB dinámica y puertos USB adicionales para conectar periféricos.",
     "especificaciones": [
       "Iluminación: RGB personalizable con múltiples efectos táctiles",
@@ -356,7 +356,7 @@
     "producto": "Kit de Keycaps PBT Rosado/Negro HyperX",
     "precio": 19990,
     "categoria": "accesorios",
-    "imagen": "img/accesorio-keycaps.jpg",
+    "imagen": "https://lh3.googleusercontent.com/d/1WxUjcftrCRkzgzQBoR63ID4ndAcjEi_L",
     "descripcion": "Juego de teclas de repuesto de alta durabilidad con diseño translúcido para dejar pasar la iluminación RGB.",
     "especificaciones": [
       "Material: PBT de doble capa ultra resistente al desgaste",
@@ -372,7 +372,7 @@
     "producto": "Hub USB 3.0 de 4 Puertos Anker",
     "precio": 15990,
     "categoria": "accesorios",
-    "imagen": "img/accesorio-hub.jpg",
+    "imagen": "https://lh3.googleusercontent.com/d/1x-hr0cs2kJKv6QK1oen9CnAOSW61qmFg",
     "descripcion": "Expande la conectividad de tu equipo con transferencia de datos ultrarrápida y diseño compacto portátil.",
     "especificaciones": [
       "Puertos: 4 puertos USB 3.0 de alta velocidad",
@@ -388,7 +388,7 @@
     "producto": "Correa Organizadora de Cables Velcro (Pack 10)",
     "precio": 6990,
     "categoria": "accesorios",
-    "imagen": "img/accesorio-cables.jpg",
+    "imagen": "https://lh3.googleusercontent.com/d/1DUUxtujcKTxJqJGfAz87N0KqoQwscR4v",
     "descripcion": "Solución práctica y reutilizable para mantener ordenados los cables de tu setup gaming y de oficina.",
     "especificaciones": [
       "Cantidad: Pack de 10 unidades de correas ajustables",
